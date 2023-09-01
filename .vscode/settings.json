@@ -1,0 +1,8 @@
+{
+  "files.eol": "\n", //default LF
+  "editor.tabSize": 2,
+
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
